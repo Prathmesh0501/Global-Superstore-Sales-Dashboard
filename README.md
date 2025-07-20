@@ -17,7 +17,7 @@ The organization faced key challenges:
 - Limited visibility into time-based sales trends (monthly, quarterly, yearly)
 - Difficulty in forecasting, identifying high-performing segments, and optimizing discounts
 
-## 📌 Need: A dashboard that enables:
+## 📌 Need a dashboard that enables:
 - Time-based tracking (MTD, QTD, YTD)
 - Segment-wise and regional performance monitoring
 - Detection of profit leakages and high-growth opportunities
