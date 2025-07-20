@@ -51,4 +51,9 @@ Build an interactive and insightful dashboard using Power BI and Excel to:
 - Microsoft Excel – data cleaning, pivot analysis
 - Slicers, Line charts, Pie charts, Maps, Cards
 
+## 🔍 Business Recommendations
+- Reduce discounting on low-profit, high-sales items like Tables and Binders.
+- Promote high-margin categories such as Phones, Chairs, and Storage.
+- Optimize by time period – run promotions in underperforming months and capitalize on quarterly sales spikes.
+- Target high-value customer segments like Corporate and Home Office with loyalty offers.
 
